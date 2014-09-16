@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Transifex_Client.Form1
+            Me.MainForm = Global.Transifex_Client.frmMain
         End Sub
     End Class
 End Namespace
